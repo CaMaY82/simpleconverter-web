@@ -1,0 +1,17 @@
+[
+    {
+        "categoria": "Masa",
+        "origen": "kg",
+        "destino": "lb"
+    },
+    {
+        "categoria": "Densidad",
+        "origen": "kg/m³",
+        "destino": "kg/cm³"
+    },
+    {
+        "categoria": "Distancia",
+        "origen": "mm",
+        "destino": "cm"
+    }
+]
