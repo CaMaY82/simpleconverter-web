@@ -1,5 +1,5 @@
 {
     "mostrar_picker": true,
-    "vibracion": false,
-    "decimales": 2
+    "vibracion": true,
+    "decimales": 3
 }
