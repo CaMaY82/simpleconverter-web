@@ -1,6 +1,6 @@
 {
     "name": "Simple Converter",
-    "short_name": "convertidor",
+    "short_name": "Simple Converter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
